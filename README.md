@@ -1,4 +1,7 @@
-[![Syket's GitHub Banner](./assets/GitHubHeader.png)](https://res.cloudinary.com/syket-sd/image/upload/v1637483113/untitled_dsylwk.png)
+<!-- [![Syket's GitHub Banner](./assets/GitHubHeader.png)](https://res.cloudinary.com/syket-sd/image/upload/v1637483113/untitled_dsylwk.png) -->
+<h1 align="center" >
+  <img src="https://res.cloudinary.com/syket-sd/image/upload/v1637483113/untitled_dsylwk.png" />
+</h1>
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://https://www.linkedin.com/in/syket-das-b6500b217/)
@@ -125,7 +128,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
 <br>
 
-## 📣 How about an Office quote before you go?
+<!-- ## 📣 How about an Office quote before you go?
 
 > Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
@@ -140,3 +143,4 @@ Check back at the top of the hour for a new quote!
 > ### Want to know how I made this README?
 >
 > Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
+ -->
