@@ -1,9 +1,4 @@
 
-<h1 align="center" >
-  <img src="https://res.cloudinary.com/syket-sd/image/upload/v1637483113/untitled_dsylwk.png" />
-</h1>
-
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://https://www.linkedin.com/in/syket-das-b6500b217/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/Syket_Das)
 
