@@ -34,7 +34,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 <a href="https://github.com/syket-das/Covid-Tracker">
   <img align="center" style="margin:0.5rem" src="https://user-images.githubusercontent.com/80612737/129766450-9b4c65e6-9fe0-42ac-8a3d-f6440212a7ce.png" />
 </a>
-
+<!-- 
 <br>
 
 <a href="https://github.com/braydoncoyer/pomegradient">
@@ -67,7 +67,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 </a>
 
 <br>
-<br>
+<br> -->
 
 ## 💼 Skills
 
