@@ -1,4 +1,4 @@
-[![Syket's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Syket's GitHub Banner](./assets/GitHubHeader.png)](https://res.cloudinary.com/syket-sd/image/upload/v1637483113/untitled_dsylwk.png)
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://https://www.linkedin.com/in/syket-das-b6500b217/)
