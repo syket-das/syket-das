@@ -29,23 +29,14 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
+[![Syket's github activity graph](https://activity-graph.herokuapp.com/graph?username=syket-das&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h2>👀 My github Stats</h2>
 
-<div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=syket-das&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syket-das" alt="GitHub Stats" /> <br/><br/>
-  
-</div>
+<h2>👀 My Activities</h2>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=syket-das&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syket-das&layout=compact)
+![Syket's GitHub stats](https://github-readme-stats.vercel.app/api?username=syket-das&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syket-das&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---------------------------------------------------------------------------------------------------------------------
 Credits: <a href="https://github.com/syket-das">Syket Das</a>
