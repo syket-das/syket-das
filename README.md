@@ -7,7 +7,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an undergraduate Computer science and Engineering student at Lovely Professional University. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web development, App development, and Artificial Intellegence**
+* **I am interested in Web development, App development, Artificial Intellegence and Cyber Security**
 - 🌱 I’m currently learning ...
   - Data Structure And Algorithms
   - React Native
