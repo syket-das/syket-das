@@ -12,7 +12,7 @@ I am an undergraduate Computer science and Engineering student at Lovely Profess
   - Data Structure And Algorithms
   - React Native
 - 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if something is in my reach😉<br>
+- ✔ Ask me about anything, I am happy to help, if something is in my reach😉<br>
 - Outside tech, 📖 I love to marvel movies, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="saiketsd23@gmail.com">saiketsd23@gmail.com</a>
 
