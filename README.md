@@ -38,6 +38,8 @@ __Check out my GitHub repository:__
 
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/syket-das">Syket Das</a>
+<div style="display:flex;">
+Portfolio: <a href="https://syket-das.netlify.app">Syket Das</a>
 
-
+[My Resume](https://github.com/syket-das/syket-das/files/11447866/Syket.Das.2.pdf)
+</div>
