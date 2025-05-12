@@ -78,23 +78,19 @@ I am Syket Das, a passionate Full Stack Developer based in Punjab, India. With o
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/syket-das">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syket-das&theme=radical&border=7F3FBF&background=0D1117" alt="Syket's GitHub streak"/>
+<!-- GitHub Stats Section -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+
+  <!-- GitHub Profile Summary Card -->
+  <a href="https://github.com/syket-das" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syket-das&theme=radical" alt="Syket's GitHub Contribution" />
   </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/syket-das">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syket-das&theme=radical" alt="Al Syket's GitHub Contribution"/>
+  <!-- GitHub Top Languages Card -->
+  <a href="https://github.com/syket-das" target="_blank">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=syket-das&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Syket's Top Languages" height="192px" />
   </a>
-</p>
 
-<a> 
-    <a href="https://github.com/syket-das"><img alt="Syket's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=syket-das&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/syket-das"><img alt="Syket's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=syket-das&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+</div>
 
 
-![Syket's Graph](https://github-readme-activity-graph.vercel.app/graph?username=syket-das&custom_title=%20Syket's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
